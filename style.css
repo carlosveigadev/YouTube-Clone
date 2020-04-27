@@ -1,0 +1,32 @@
+* {box-sizing: border-box;}
+
+body {
+    background-color: #EEEEEE;
+    margin: 0%;
+}
+
+.navbar-container {
+  width: 1024px;
+  height: 50px;
+  background-color: #FFFFFF;
+  align-items: center;
+}
+
+.div-ham{
+  height: 30px;
+  width: 38px;
+  border-style: none;
+  padding: 0px 10px;
+
+}
+
+.hamburguer{
+  height: auto;
+  width: 100%;
+}
+
+.youtube-logo{
+  height: 40px;
+  width: 100px;
+  padding-top: 10px;
+}
