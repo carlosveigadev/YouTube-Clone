@@ -154,3 +154,73 @@ body {
   background-color: red;
   box-shadow: 1px 2px 2px #888888;
 }
+
+.main-div {
+  display: flex;
+  flex-direction: row;
+  width: 1084px;
+  margin-top: 15px;
+
+}
+
+.div-prsn {
+  width: 56px;
+  height: 36px;
+  background-color: #267AC6;
+  padding: 0px 13px;
+
+}
+
+.qstn-prsn {
+  width: 35px;
+  height: 25px;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 0px 13px;
+}
+
+.language-text {
+  color: white;
+  background-color: #267AC6;
+  font-size: 13px;
+  font-family: 'Noto Sans', sans-serif;
+  width: 1000px;
+  height: 36px;
+  font-size: 100%;
+
+
+}
+
+.div-x-btn {
+  width: 46px;
+  height: 36px;
+  background-color: #267AC6;
+  padding: 0px 13px;
+  vertical-align: center;
+
+}
+
+.x-btn {
+  width: 20px;
+  height: 20px;
+  margin: 6px 0px;
+  color: white;
+  background-color: #267AC6;
+  border: none;
+
+}
+
+.preferences {
+    width:1042px;
+    height: 40px;
+    border-width: 2px;
+    border-color: #267AC6;
+    background-color: white;
+    padding: 10px 20px;
+    border: 1px solid #267AC6;
+    
+}
+
+.learn-more {
+
+}
