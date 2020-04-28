@@ -232,3 +232,60 @@ body {
   color: #b8d7ed ;
   padding-left: 370px;
 }
+.div-video{
+  width: 639px;
+  height: 360px;
+  margin-top: 20px;
+
+}
+.video{
+  height: 100%;
+  width: 100%;
+}
+.info-video{
+  height: 150px;
+  width: 640px;
+  background-color: #FFFFFF;
+  margin-top: 10px;
+
+}
+
+.name-video{
+  height: 150px;
+  width: 640px;
+  padding-left: 15px;
+  padding-top: 5px;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 14px;
+  letter-spacing: .1px;
+
+}
+.div-t{
+  height: 48px;
+  width: 48px;
+  background-color: #689F39;
+
+
+}
+.t{
+  font-size: 35px;
+  color: #FFFFFF;
+  text-decoration: none;
+  padding-left: 13px;
+  display: flex;
+
+}
+.odin{
+  color: #000000;
+  font-weight: bold;
+  margin-left: 80px;
+}
+.line{
+  height: 5px;
+  color: black;
+}
+.table {
+  width: 639px;
+  height: 360px;
+  background-color: #FFFFFF;
+}
