@@ -1,9 +1,11 @@
 * {
-
+width: 100%;
 }
 body {
   background-color: #EEEEEE;
 }
+
+
 
 #div-style {
   height: 50px;
@@ -12,6 +14,7 @@ body {
   position: relative;
   font-size: 100%;
   padding: 7px 30px 8px;
+  display: flex;
 
 }
 
@@ -41,22 +44,38 @@ body {
 .youtube-logo {
   height: 40px;
   width: 100px;
-
+  margin-right: 30px;
+  margin-left: 20px;
 
 }
+
+.div-input{
+  display: flex;
+}
+
+
 .btn-search {
-  width: 66px;
-  height: 29px;
+  width: 50px;
+  height: 27px;
+  border-width:1px;
+  border-color: #EEEEEE;
+  margin-left: -1px;
+  padding: 0px;
+  background-color: #F8F8F8;
+
 }
 
 .search {
   width:15px;
   height:15px;
+  display: inline-block;
+
 }
 .anc-upload {
-  height: 44px;
-  width: 28px;
-  margin: 0px 5px 0px 0px;
+  height: 34px;
+  width: 22px;
+  margin-left: 30px;
+  padding: 0px 10px;
 
 }
 
@@ -80,8 +99,11 @@ body {
   width: 55px;
   height: 28px;
   background-color: #167AC6;
-  border-radius: 5px;
+  border-radius: 2px;
   border-style: none;
+  padding: 0px 0px;
+  margin-right: 50px;
+
 }
 
 .sign-text {
@@ -99,5 +121,36 @@ body {
   border-width:1px;
   border-color: #EEEEEE;
   text-decoration-color: #EEEEEE;
+  font-size: 12px;
+  font-family: 'Noto Sans', sans-serif;
+  margin-top: 1px;
 
+}
+.last-btns {
+  margin-right: 50px;
+  width: 117px;
+  height: 28px;
+  display: flex;
+  align-items: right;
+  justify-content: center;
+}
+
+.sgn-btn {
+
+}
+
+.btn-ham:hover{
+  background-color: #EEEEEE;
+  box-shadow: 1px 2px 2px #888888;
+  border-radius: 1px;
+}
+
+.btn-search:hover {
+  background-color: #EEEEEE;
+  box-shadow: 1px 2px 2px #888888;
+  border-radius: 1px;
+}
+.btn-sign:hover{
+  background-color: red;
+  box-shadow: 1px 2px 2px #888888;
 }
