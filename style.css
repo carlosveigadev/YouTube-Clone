@@ -1,32 +1,41 @@
-* {box-sizing: border-box;}
-
+* {
+  width: 90%;
+}
 body {
-    background-color: #EEEEEE;
-    margin: 0%;
+  background-color: #EEEEEE;
 }
 
-.navbar-container {
+#div-style {
+  height: 5em;
   width: 1024px;
-  height: 50px;
   background-color: #FFFFFF;
+  grid-template-areas: 'z y y y y'
+                       'x center center center w'
+                       'x center center center w'
+                       'x z z z z';
+}
+
+.div-btns {
   align-items: center;
+  justify-items: end;
+
 }
 
-.div-ham{
-  height: 30px;
+
+.btn-ham {
   width: 38px;
-  border-style: none;
-  padding: 0px 10px;
+  height: 30px;
+  border: none;
 
 }
 
-.hamburguer{
-  height: auto;
-  width: 100%;
+.hamburguer {
+  height: 16px;
+  width: 16px;
 }
 
-.youtube-logo{
+.youtube-logo {
   height: 40px;
   width: 100px;
-  padding-top: 10px;
+
 }
