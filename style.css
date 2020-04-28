@@ -275,6 +275,13 @@ body {
   display: flex;
 
 }
+
+.odin-div {
+  position: relative;
+  bottom: 50px;
+  right: 20px;
+
+}
 .odin{
   color: #000000;
   font-weight: bold;
@@ -284,8 +291,44 @@ body {
   height: 5px;
   color: black;
 }
-.table {
-  width: 639px;
-  height: 360px;
-  background-color: #FFFFFF;
+
+
+.yt-icon {
+  width: 16px;
+  height: 12px;
+  margin-top: 6;
+}
+
+.yt-btn {
+  width: 90px;
+  height: 24px;
+  font-size: 12px;
+  background-color: red;
+  border: 1px solid red;
+  border-radius: 2px;
+  color: white;
+
+}
+
+.n-views {
+  font-size: 11px;
+  color: #73737373;
+  border: 1px solid #73737373;
+  width: 34px;
+  height: 24px;
+  padding: 3px 6px 4px 7px;
+  margin: 0px 0px 0px -4px;
+  border-radius: 2px;
+}
+
+.subscribe {
+  position: relative;
+  bottom: 45px;
+  left: 60px;
+}
+
+.div-views {
+  position: relative;
+  left: 528px;
+  bottom: 59px;
 }
