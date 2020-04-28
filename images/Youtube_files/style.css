@@ -1,5 +1,5 @@
 * {
-
+  
 }
 body {
   background-color: #EEEEEE;
@@ -11,7 +11,6 @@ body {
   background-color: white;
   position: relative;
   font-size: 100%;
-  padding: 7px 30px 8px;
 
 }
 
@@ -28,9 +27,8 @@ body {
   height: 30px;
   border: none;
   background-color: white;
-  padding: 0px 10px;
-  margin: 0px 0px 0px -7px;
-  vertical-align: middle;
+  padding: 7px 30px 8px;
+
 }
 
 .hamburguer {
@@ -41,7 +39,6 @@ body {
 .youtube-logo {
   height: 40px;
   width: 100px;
-
 
 }
 .btn-search {
@@ -56,19 +53,6 @@ body {
 .anc-upload {
   height: 44px;
   width: 28px;
-  margin: 0px 5px 0px 0px;
-
-}
-
-.logos {
-  float: left;
-  position: relative;
-  width: 200px;
-  height: 33px;
-  background-color: white;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .upload-logo {
@@ -98,6 +82,5 @@ body {
   position: relative;
   border-width:1px;
   border-color: #EEEEEE;
-  text-decoration-color: #EEEEEE;
 
 }
