@@ -5,8 +5,6 @@ body {
   background-color: #EEEEEE;
 }
 
-
-
 #div-style {
   height: 50px;
   width: 1024px;
@@ -15,6 +13,15 @@ body {
   font-size: 100%;
   padding: 7px 30px 8px;
   display: flex;
+
+}
+
+#id{
+
+}
+#ad1{
+  position: relative;
+  left: 270px;
 
 }
 
@@ -135,10 +142,6 @@ body {
   justify-content: center;
 }
 
-.sgn-btn {
-
-}
-
 .btn-ham:hover{
   background-color: #EEEEEE;
   box-shadow: 1px 2px 2px #888888;
@@ -243,10 +246,11 @@ body {
   width: 100%;
 }
 .info-video{
-  height: 150px;
+  height: 170px;
   width: 640px;
   background-color: #FFFFFF;
   margin-top: 10px;
+  box-shadow: 1px 1px 5px grey;
 
 }
 
@@ -275,17 +279,129 @@ body {
 
 
 }
+
+.odin-div {
+  position: relative;
+  bottom: 50px;
+  left: 60px;
+
+}
 .odin{
   color: #000000;
   font-weight: bold;
 
 }
-.line{
-  height: 5px;
-  color: black;
+
+
+
+.yt-icon {
+  width: 16px;
+  height: 12px;
+  margin-top: 6;
 }
-.table {
-  width: 639px;
-  height: 360px;
-  background-color: #FFFFFF;
+
+.yt-btn {
+  width: 100px;
+  height: 24px;
+  font-size: 12px;
+  background-color: red;
+  border: 1px solid red;
+  border-radius: 2px;
+  color: white;
+
+}
+
+.n-views {
+  font-size: 11px;
+  color: #73737373;
+  border: 1px solid #73737373;
+  width: 34px;
+  height: 24px;
+  padding: 3px 6px 4px 7px;
+  margin: 0px 0px 0px -4px;
+  border-radius: 2px;
+}
+
+.subscribe {
+  position: relative;
+  bottom: 45px;
+  left: 60px;
+}
+
+.div-views {
+  position: relative;
+  left: 500px;
+  bottom: 69px;
+  width: 120px;
+  height: 15px;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 19px;
+  color: grey;
+}
+
+.line {
+  position: relative;
+  bottom: 60px;
+  width: 610px;
+  right: 15px;
+  color: black;
+
+}
+
+.line-blue {
+  position: relative;
+  bottom: 72px;
+  width: 125px;
+  left: 218px;
+  border: 2px solid #257ac6;
+
+}
+
+.line-gray {
+  position: relative;
+  bottom: 83px;
+  width: 5px;
+  left: 286px;
+  border: 2px solid #e3e3e3;
+
+}
+
+.material-icons {
+  opacity:0.54;
+  width: 11px;
+  height: 11px;
+}
+.icons {
+  width: 610px;
+  height: 34px;
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  bottom: 70px;
+
+}
+
+.addto{
+  background-color: transparent;
+  border: none;
+  font-size: 9px;
+  text-decoration: none;
+  display: inline-block;
+  width: 70px;
+  height: 28px;
+  position: relative;
+  right: 15px;
+  bottom: 10px;
+
+}
+
+.w1 {
+  position: relative;
+  bottom: 9px;
+  left: 12px;
+  text-align: right;
+  font-size: 11px;
+  font-family: 'Noto Sans'!important, sans-serif;
+  opacity: .54;
+
 }
