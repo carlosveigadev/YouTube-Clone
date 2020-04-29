@@ -1,5 +1,6 @@
 * {
   width: 100%;
+
   }
   body {
     background-color: #EEEEEE;
@@ -593,4 +594,68 @@
   background-color: rgba(0, 0, 0, 0.54);
   color: #EEEEEE;
   font-size: 11px;
+}
+.footer{
+    width: 1084px;
+    height: 145px;
+    position: relative;
+    bottom: 850px;
+    right: 15px;
+    background-color: #FFFFFF;
+    margin-top: 10px;
+    box-shadow: 1px 1px 5px grey;
+}
+.container-footer {
+  width: 100%;
+  height: auto;
+
+}
+.yt-footer{
+  width: 161px;
+  height: 18px;
+
+}
+.lang-footer{
+  width: 13%;
+  height: 28px;
+  position: relative;
+  bottom: 10px;
+  left: 175px;
+
+}
+
+.loc-footer{
+  width: 13%;
+  height: 18px;
+  position: relative;
+  bottom: 28px;
+  left: 355px;
+}
+
+.rest-footer{
+  width: 13%;
+  height: 18px;
+  position: relative;
+  bottom: 45px;
+  left: 555px;
+}
+
+.hist-footer{
+  width: 13%;
+  height: 18px;
+  position: relative;
+  bottom: 62px;
+  left: 725px;
+}
+
+.help-footer{
+  width: 13%;
+  height: 18px;
+  position: relative;
+  bottom: 80px;
+  left: 905px;
+}
+option {
+  font-size: 22px;
+  width: 40px;
 }
