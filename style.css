@@ -16,9 +16,13 @@
 
   }
 
-  #id{
-
+  #info{
+    position: relative;
+    opacity: 0.54;
+    left: 90px;
+    bottom: 3px;
   }
+
   #ad1{
     position: relative;
     left: 270px;
@@ -443,9 +447,8 @@
     position: relative;
     bottom: 3px;
     font-weight: 700;
-
-
   }
+
   .show-btn {
     border: none;
     background-color: transparent;
@@ -477,4 +480,117 @@
   position: relative;
   left: 280px;
   top: 55px;
+}
+
+.sidebar {
+  width: 415px;
+  height: 2265px;
+  position: relative;
+  bottom: 940px;
+  left: 650px;
+  background-color: white;
+  box-shadow: 1px 1px 5px grey;
+}
+
+.sidebar-config {
+  height: 16px;
+  display: inline-flex;
+}
+
+.up-next-txt {
+  position: relative;
+  font-size: 13px;
+  opacity: 0.54;
+  bottom: 18px;
+}
+
+.a-play {
+  position: relative;
+  font-size: 13px;
+  opacity: 0.54;
+  left: 158px;
+}
+
+.toggle {
+  color: #257ac6;
+  opacity: 1;
+  font-size: 24px;
+  width: 37px;
+  height: 15px;
+  background-color: white;
+  position: relative;
+
+}
+
+.mini-video-border {
+  width: 375px;
+  height: 108px;
+  border-bottom: 1px solid #EEEEEE;
+  list-style-type: none;
+  position: relative;
+  right: 20px;
+  display: flex;
+  margin-top: 20px;
+}
+
+.mini-video {
+  width: 375px;
+  height: 108px;
+  list-style-type: none;
+  position: relative;
+  right: 20px;
+  display: flex;
+  margin-top: 20px;
+}
+
+.sky {
+  width: 168px;
+  height: 94px;
+}
+
+.txt-top {
+  font-size: 14px;
+  color: #333333;
+
+}
+
+.txt-middle {
+  font-size: 11px;
+  color: #333333;
+}
+
+.txt-bot {
+  font-size: 11px;
+  color: #333333;
+}
+
+.text-div-side {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  right: 15px;
+}
+
+.show-more-sidebar {
+  text-decoration: none;
+  opacity: .54;
+  font-family: 'Noto Sans'!important, sans-serif;
+  text-align: center;
+  position: relative;
+  right: 40px;
+  bottom: 3px;
+  font-weight: 700;
+  background-color: transparent;
+  border: 0px;
+}
+
+.counter {
+  position: relative;
+  right: 28px;
+  top: 77px;
+  width: 42px;
+  height: 17px;
+  background-color: rgba(0, 0, 0, 0.54);
+  color: #EEEEEE;
+  font-size: 11px;
 }
