@@ -1,5 +1,6 @@
 * {
 <<<<<<< HEAD
+<<<<<<< HEAD
   width: 100%;
 
   }
@@ -17,6 +18,13 @@
     display: flex;
 
   }
+=======
+width: 100%;
+}
+body {
+  background-color: #EEEEEE;
+}
+>>>>>>> master
 
   #info{
     position: relative;
@@ -595,6 +603,26 @@
   background-color: rgba(0, 0, 0, 0.54);
   color: #EEEEEE;
   font-size: 11px;
+<<<<<<< HEAD
+=======
+  color: #b8d7ed ;
+  padding-left: 370px;
+=======
+  width: 90%;
+}
+
+.nav-style {
+
+  background-color: red;
+
+>>>>>>> master
+}
+.div-video{
+  width: 639px;
+  height: 360px;
+  margin-top: 20px;
+
+>>>>>>> master
 }
 .footer{
     width: 1084px;
@@ -667,5 +695,19 @@ option {
 
   background-color: red;
 
+<<<<<<< HEAD
 >>>>>>> origin
+=======
+.material-icons {
+  opacity:0.54;
+=======
+  width: 90%;
+}
+
+.nav-style {
+
+  background-color: red;
+
+>>>>>>> master
+>>>>>>> master
 }
