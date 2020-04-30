@@ -564,10 +564,13 @@ body {
 }
 
 .learn-more {
+<<<<<<< HEAD
+=======
   text-decoration: none;
   font-size: 11px;
   color: #b8d7ed ;
   padding-left: 370px;
+>>>>>>> master
 =======
   width: 90%;
 }
@@ -575,6 +578,9 @@ body {
 .nav-style {
 
   background-color: red;
+<<<<<<< HEAD
+>>>>>>> master
+=======
 
 >>>>>>> master
 =======
@@ -797,6 +803,7 @@ option {
 .nav-style {
 
   background-color: red;
+>>>>>>> master
 
 >>>>>>> master
 >>>>>>> master
