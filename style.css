@@ -24,32 +24,31 @@
     bottom: 3px;
   }
 
-  #ad1{
-    position: relative;
-    left: 270px;
-
-  }
 
   #idn-lang{
       position: relative;
-      left: 5px;
-
+      left: 70px;
+      bottom: 30px;
   }
 
   #btn-foo1{
+    width: 80px;
+    height: 28px;
+    font-weight: 700;
+    padding-bottom: 10px;
+  }
+
+  #btn-foo2{
     width: 75px;
     height: 28px;
     font-weight: 700;
     padding-bottom: 10px;
-
   }
-
 
   .div-btns {
     align-items: center;
     background-color: white;
     display: flex;
-
   }
 
 
@@ -415,6 +414,20 @@
 
   }
 
+.addto1 {
+    background-color: transparent;
+    border: none;
+    font-size: 9px;
+    text-decoration: none;
+    display: inline-block;
+    width: 70px;
+    height: 28px;
+    position: relative;
+    left: 270px;
+    right: 15px;
+    bottom: 10px;
+  }
+
   .w1 {
     position: relative;
     bottom: 9px;
@@ -444,8 +457,11 @@
   .pub-p{
     position: relative;
     margin-left: 15px;
+    width: 600px;
     font-family: 'Noto Sans'!important, sans-serif;
     font-weight: 400;
+    border-bottom: 1px solid #7C7C7C;
+    padding-bottom: 15px;
 
   }
   .hr1{
@@ -461,7 +477,7 @@
     font-family: 'Noto Sans'!important, sans-serif;
     text-align: center;
     position: relative;
-    bottom: 3px;
+    bottom: 10px;
     font-weight: 700;
   }
 
@@ -502,8 +518,8 @@
   width: 415px;
   height: 2265px;
   position: relative;
-  bottom: 940px;
-  left: 650px;
+  bottom: 540px;
+  left: 670px;
   background-color: white;
   box-shadow: 1px 1px 5px grey;
 }
@@ -511,6 +527,9 @@
 .sidebar-config {
   height: 16px;
   display: inline-flex;
+  position: relative;
+  top: 5px;
+
 }
 
 .up-next-txt {
@@ -573,11 +592,15 @@
 .txt-middle {
   font-size: 11px;
   color: #333333;
+  position: relative;
+  top: 5px;
 }
 
 .txt-bot {
   font-size: 11px;
   color: #333333;
+  position: relative;
+  top: 10px;
 }
 
 .text-div-side {
@@ -593,8 +616,7 @@
   font-family: 'Noto Sans'!important, sans-serif;
   text-align: center;
   position: relative;
-  right: 40px;
-  bottom: 3px;
+  bottom: 15px;
   font-weight: 700;
   background-color: transparent;
   border: 0px;
@@ -614,12 +636,12 @@
     width: 1084px;
     height: 145px;
     position: relative;
-    bottom: 850px;
-    right: 15px;
+    bottom: 500px;
     background-color: #FFFFFF;
     margin-top: 10px;
     box-shadow: 1px 1px 5px grey;
 }
+
 .in-footer {
   width: 95%;
   height: auto;
@@ -680,7 +702,7 @@
   width: 30px;
   height: 30px;
   position: relative;
-  right: 10px;
+  right: 15px;
   bottom: 4px;
 }
 
@@ -709,7 +731,7 @@
 
 .btn-foot {
   margin: 0px 15px 0px 15px;
-  width: 165px;
+  width: 170px;
   height: 28px;
   color: #7C7C7C;
 
