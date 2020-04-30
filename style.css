@@ -1,4 +1,5 @@
 * {
+<<<<<<< HEAD
   width: 100%;
 
   }
@@ -808,4 +809,13 @@
   font-family: 'Noto Sans'!important, sans-serif;
   color: rgba(0,0,0,.54);
   margin-right: 20px;
+=======
+  width: 90%;
+}
+
+.nav-style {
+
+  background-color: red;
+
+>>>>>>> master
 }
