@@ -1,4 +1,5 @@
 * {
+<<<<<<< HEAD
 width: 100%;
 }
 body {
@@ -231,4 +232,13 @@ body {
   font-size: 11px;
   color: #b8d7ed ;
   padding-left: 370px;
+=======
+  width: 90%;
+}
+
+.nav-style {
+
+  background-color: red;
+
+>>>>>>> master
 }
