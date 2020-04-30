@@ -422,6 +422,20 @@
 
   }
 
+  .addto1 {
+    background-color: transparent;
+    border: none;
+    bottom: 10px;
+    display: inline-block;
+    font-size: 9px;
+    position: relative;
+    left: 271px;
+    text-decoration: none;
+    height: 28px;
+    width: 70px;
+
+  }
+
   .w1 {
     position: relative;
     bottom: 9px;
@@ -453,6 +467,9 @@
     margin-left: 15px;
     font-family: 'Noto Sans'!important, sans-serif;
     font-weight: 400;
+    border-bottom: .25px solid #C7C7C7;
+    padding-bottom: 10px;
+    width: 600px;
 
   }
   .hr1{
@@ -468,8 +485,10 @@
     font-family: 'Noto Sans'!important, sans-serif;
     text-align: center;
     position: relative;
-    bottom: 3px;
+    bottom: 10px;
     font-weight: 700;
+
+
   }
 
   .show-btn {
