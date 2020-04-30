@@ -4,7 +4,7 @@
   This project consists of building an HTML document that matches the appearance of youtube video player page.
   As a source page we used the web archive link: http://archive.today/Bss88.
 
-![screenshot](./app_screenshot.png) $$$$$$$$$$$$$$$
+
 
 ## Built With
 
