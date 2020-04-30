@@ -1,5 +1,6 @@
 * {
 <<<<<<< HEAD
+<<<<<<< HEAD
   width: 100%;
   }
   body {
@@ -14,6 +15,31 @@
     font-size: 100%;
     padding: 7px 30px 8px;
     display: flex;
+=======
+width: 100%;
+}
+body {
+  background-color: #EEEEEE;
+}
+
+
+
+#div-style {
+  height: 50px;
+  width: 1024px;
+  background-color: white;
+  position: relative;
+  font-size: 100%;
+  padding: 7px 30px 8px;
+  display: flex;
+
+}
+
+.div-btns {
+  align-items: center;
+  background-color: white;
+  display: flex;
+>>>>>>> master
 
   }
 
@@ -514,11 +540,50 @@
   bottom: 18px;
 }
 
+<<<<<<< HEAD
 .a-play {
   position: relative;
   font-size: 13px;
   opacity: 0.54;
   left: 158px;
+=======
+.preference-blw{
+  text-decoration: none;
+  color: #b8d7ed ;
+}
+
+.learn-more {
+  text-decoration: none;
+  font-size: 11px;
+  color: #b8d7ed ;
+  padding-left: 370px;
+=======
+  width: 90%;
+}
+
+.nav-style {
+
+  background-color: red;
+
+>>>>>>> master
+}
+.div-video{
+  width: 639px;
+  height: 360px;
+  margin-top: 20px;
+
+}
+.video{
+  height: 100%;
+  width: 100%;
+}
+.info-video{
+  height: 210px;
+  width: 640px;
+  background-color: #FFFFFF;
+  margin-top: 10px;
+
+>>>>>>> master
 }
 
 .toggle {
@@ -596,6 +661,7 @@
 
 .counter {
   position: relative;
+<<<<<<< HEAD
   right: 28px;
   top: 77px;
   width: 42px;
@@ -603,4 +669,24 @@
   background-color: rgba(0, 0, 0, 0.54);
   color: #EEEEEE;
   font-size: 11px;
+=======
+  bottom: 83px;
+  width: 5px;
+  left: 286px;
+  border: 2px solid #e3e3e3;
+
+}
+
+.material-icons {
+  opacity:0.54;
+=======
+  width: 90%;
+}
+
+.nav-style {
+
+  background-color: red;
+
+>>>>>>> master
+>>>>>>> master
 }
