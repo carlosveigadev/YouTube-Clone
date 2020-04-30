@@ -1,0 +1,86 @@
+* {
+  
+}
+body {
+  background-color: #EEEEEE;
+}
+
+#div-style {
+  height: 50px;
+  width: 1024px;
+  background-color: white;
+  position: relative;
+  font-size: 100%;
+
+}
+
+.div-btns {
+  align-items: center;
+  background-color: white;
+  display: flex;
+
+}
+
+
+.btn-ham {
+  width: 38px;
+  height: 30px;
+  border: none;
+  background-color: white;
+  padding: 7px 30px 8px;
+
+}
+
+.hamburguer {
+  height: 16px;
+  width: 16px;
+}
+
+.youtube-logo {
+  height: 40px;
+  width: 100px;
+
+}
+.btn-search {
+  width: 66px;
+  height: 29px;
+}
+
+.search {
+  width:15px;
+  height:15px;
+}
+.anc-upload {
+  height: 44px;
+  width: 28px;
+}
+
+.upload-logo {
+  width:24px;
+  height:24px;
+}
+
+.btn-sign {
+  width: 55px;
+  height: 28px;
+  background-color: #167AC6;
+  border-radius: 5px;
+  border-style: none;
+}
+
+.sign-text {
+  color: #FFF;
+  font-size: 11px;
+  text-align: center;
+}
+
+.search-bar {
+  width: 550px;
+  height: 27px;
+  border-style: solid;
+  box-sizing: border-box;
+  position: relative;
+  border-width:1px;
+  border-color: #EEEEEE;
+
+}
