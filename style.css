@@ -186,9 +186,9 @@ body {
   font-size: 13px;
   font-family: 'Noto Sans', sans-serif;
   width: 1000px;
-  height: 36px;
+  height: 29px;
   font-size: 100%;
-
+  padding-top: 7px;
 
 }
 
@@ -213,16 +213,173 @@ body {
 
 .preferences {
     width:1042px;
-    height: 40px;
+    height: 30px;
     border-width: 2px;
     border-color: #267AC6;
     background-color: white;
     padding: 10px 20px;
     border: 1px solid #267AC6;
-    
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.preference-blw{
+  text-decoration: none;
+  color: #b8d7ed ;
 }
 
 .learn-more {
+<<<<<<< HEAD
+=======
+  text-decoration: none;
+  font-size: 11px;
+  color: #b8d7ed ;
+  padding-left: 370px;
+>>>>>>> master
+=======
+  width: 90%;
+}
+
+.nav-style {
+
+  background-color: red;
+<<<<<<< HEAD
+>>>>>>> master
+=======
+
+>>>>>>> master
+}
+.div-video{
+  width: 639px;
+  height: 360px;
+  margin-top: 20px;
+
+}
+.video{
+  height: 100%;
+  width: 100%;
+}
+.info-video{
+  height: 210px;
+  width: 640px;
+  background-color: #FFFFFF;
+  margin-top: 10px;
+
+}
+
+.name-video{
+  height: 150px;
+  width: 640px;
+  padding-left: 15px;
+  padding-top: 5px;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 14px;
+  letter-spacing: .1px;
+
+}
+.div-t{
+  height: 48px;
+  width: 48px;
+  background-color: #689F39;
+
+
+}
+.t{
+  font-size: 35px;
+  color: #FFFFFF;
+  text-decoration: none;
+  padding-left: 13px;
+  display: flex;
+
+}
+
+.odin-div {
+  position: relative;
+  bottom: 50px;
+  right: 20px;
+
+}
+.odin{
+  color: #000000;
+  font-weight: bold;
+  margin-left: 80px;
+}
+
+
+
+.yt-icon {
+  width: 16px;
+  height: 12px;
+  margin-top: 6;
+}
+
+.yt-btn {
+  width: 90px;
+  height: 24px;
+  font-size: 12px;
+  background-color: red;
+  border: 1px solid red;
+  border-radius: 2px;
+  color: white;
+
+}
+
+.n-views {
+  font-size: 11px;
+  color: #73737373;
+  border: 1px solid #73737373;
+  width: 34px;
+  height: 24px;
+  padding: 3px 6px 4px 7px;
+  margin: 0px 0px 0px -4px;
+  border-radius: 2px;
+}
+
+.subscribe {
+  position: relative;
+  bottom: 45px;
+  left: 60px;
+}
+
+.div-views {
+  position: relative;
+  left: 500px;
+  bottom: 69px;
+  width: 120px;
+  height: 15px;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 19px;
+  color: grey;
+}
+
+.line {
+  position: relative;
+  bottom: 60px;
+  width: 610px;
+  right: 15px;
+  color: black;
+
+}
+
+.line-blue {
+  position: relative;
+  bottom: 72px;
+  width: 125px;
+  left: 218px;
+  border: 2px solid #257ac6;
+
+}
+
+.line-gray {
+  position: relative;
+  bottom: 83px;
+  width: 5px;
+  left: 286px;
+  border: 2px solid #e3e3e3;
+
+}
+
+.material-icons {
+  opacity:0.54;
 =======
   width: 90%;
 }
@@ -232,4 +389,5 @@ body {
   background-color: red;
 >>>>>>> master
 
+>>>>>>> master
 }
