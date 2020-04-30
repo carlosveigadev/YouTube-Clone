@@ -1,4 +1,5 @@
 * {
+<<<<<<< HEAD
 width: 100%;
 }
 body {
@@ -364,4 +365,13 @@ body {
 
 .material-icons {
   opacity:0.54;
+=======
+  width: 90%;
+}
+
+.nav-style {
+
+  background-color: red;
+
+>>>>>>> master
 }
