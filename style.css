@@ -30,6 +30,21 @@
 
   }
 
+  #idn-lang{
+      position: relative;
+      left: 5px;
+
+  }
+
+  #btn-foo1{
+    width: 75px;
+    height: 28px;
+    font-weight: 700;
+    padding-bottom: 10px;
+
+  }
+
+
   .div-btns {
     align-items: center;
     background-color: white;
@@ -605,21 +620,26 @@
     margin-top: 10px;
     box-shadow: 1px 1px 5px grey;
 }
-.container-footer {
-  width: 100%;
+.in-footer {
+  width: 95%;
   height: auto;
+  padding-top: 15px;
+  border-bottom: 1px solid rgba(0,0,0,.24);
+  margin-left: 20px
 
 }
-.yt-footer{
-  width: 161px;
-  height: 18px;
+.youtube-logo{
+  width: auto;
+  height: 55px;
+  position: relative;
+  bottom: 10px;
 
 }
 .lang-footer{
   width: 13%;
-  height: 28px;
+  height: 18px;
   position: relative;
-  bottom: 10px;
+  bottom: 28px;
   left: 175px;
 
 }
@@ -655,27 +675,26 @@
   bottom: 80px;
   left: 905px;
 }
-option {
-  font-size: 22px;
-  width: 40px;
-}
 
 .img-footer {
   width: 30px;
   height: 30px;
   position: relative;
   right: 10px;
+  bottom: 4px;
 }
 
 .icon-down {
   width: 10px;
   height: 10px;
+  opacity: .54;
 }
 
 .icon-down-1 {
   width: 10px;
   height: 10px;
   align-items: center;
+  opacity: .54;
 }
 .in-footer {
   display: flex;
@@ -684,16 +703,29 @@ option {
 
 .lang-txt {
   position: relative;
-  bottom: 10px;
+  bottom: 15px;
+  right: 10px;
 }
 
 .btn-foot {
-  margin: 0px 15px;
+  margin: 0px 15px 0px 15px;
+  width: 165px;
+  height: 28px;
+  color: #7C7C7C;
+
 }
 
 .hourglass {
   width: 12px;
   height: 15px;
+  position: relative;
+  top: 3px;
+  opacity: .54;
+}
+.hist-txt{
+  font-weight: 700;
+  position: relative;
+  bottom: 12px;
 }
 
 .btn-foot-h {
@@ -703,13 +735,55 @@ option {
 }
 
 .h-img {
-  width: 40px;
-  height: 50px;
+  width: 30px;
+  height: 40px;
   position: relative;
-  top: 20px;
+  top: 18px;
+
+
 }
 
 .hlp-txt {
   position: relative;
-  bottom: 20px;
+  bottom: 25px;
+  right: 5px;
+  font-weight: 700;
+}
+
+.anc-lst {
+  list-style: none;
+  display: inline-flex;
+  position: relative;
+  width: 100px;
+  height: 36px;
+
+}
+.a-elmnt{
+  position: relative;
+  text-decoration: none;
+  padding-right: 20px;
+  font-weight: 700;
+  font-family: 'Noto Sans'!important, sans-serif;
+  color: rgba(0,0,0,.80)
+
+}
+.anc-lst1 {
+  width: 500px;
+  height: 36px;
+  list-style: none;
+  display: flex;
+  position: relative;
+  bottom: 30px;
+}
+.a-elmnt1{
+  width: 100%;
+  position: relative;
+  bottom: 30px;
+  left: 40px;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 11px;
+  font-family: 'Noto Sans'!important, sans-serif;
+  color: rgba(0,0,0,.54);
+  margin-right: 20px;
 }
