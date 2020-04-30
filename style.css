@@ -1,4 +1,5 @@
 * {
+<<<<<<< HEAD
   width: 100%;
 
   }
@@ -658,4 +659,13 @@
 option {
   font-size: 22px;
   width: 40px;
+=======
+  width: 90%;
+}
+
+.nav-style {
+
+  background-color: red;
+
+>>>>>>> origin
 }
