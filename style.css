@@ -1,9 +1,4 @@
 * {
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> master
   width: 100%;
 
   }
@@ -19,42 +14,8 @@
     font-size: 100%;
     padding: 7px 30px 8px;
     display: flex;
-<<<<<<< HEAD
-=======
 
   }
->>>>>>> master
-=======
-width: 100%;
-}
-body {
-  background-color: #EEEEEE;
-}
-<<<<<<< HEAD
-
-
-
-#div-style {
-  height: 50px;
-  width: 1024px;
-  background-color: white;
-  position: relative;
-  font-size: 100%;
-  padding: 7px 30px 8px;
-  display: flex;
-
-}
-
-.div-btns {
-  align-items: center;
-  background-color: white;
-  display: flex;
->>>>>>> master
-
-  }
-=======
->>>>>>> master
->>>>>>> master
 
   #info{
     position: relative;
@@ -63,22 +24,29 @@ body {
     bottom: 3px;
   }
 
+  #ad1{
+    position: relative;
+    left: 270px;
+
+  }
 
   #idn-lang{
       position: relative;
       left: 70px;
       bottom: 30px;
+
   }
 
   #btn-foo1{
-    width: 80px;
+    width: 95px;
     height: 28px;
     font-weight: 700;
     padding-bottom: 10px;
+
   }
 
   #btn-foo2{
-    width: 75px;
+    width: 95px;
     height: 28px;
     font-weight: 700;
     padding-bottom: 10px;
@@ -88,6 +56,7 @@ body {
     align-items: center;
     background-color: white;
     display: flex;
+
   }
 
 
@@ -453,20 +422,6 @@ body {
 
   }
 
-.addto1 {
-    background-color: transparent;
-    border: none;
-    font-size: 9px;
-    text-decoration: none;
-    display: inline-block;
-    width: 70px;
-    height: 28px;
-    position: relative;
-    left: 270px;
-    right: 15px;
-    bottom: 10px;
-  }
-
   .w1 {
     position: relative;
     bottom: 9px;
@@ -496,11 +451,8 @@ body {
   .pub-p{
     position: relative;
     margin-left: 15px;
-    width: 600px;
     font-family: 'Noto Sans'!important, sans-serif;
     font-weight: 400;
-    border-bottom: 1px solid #7C7C7C;
-    padding-bottom: 15px;
 
   }
   .hr1{
@@ -516,7 +468,7 @@ body {
     font-family: 'Noto Sans'!important, sans-serif;
     text-align: center;
     position: relative;
-    bottom: 10px;
+    bottom: 3px;
     font-weight: 700;
   }
 
@@ -551,15 +503,6 @@ body {
   position: relative;
   left: 280px;
   top: 55px;
-=======
-  width: 90%;
-}
-
-.nav-style {
-
-  background-color: red;
-
->>>>>>> master
 }
 
 .sidebar {
@@ -575,9 +518,6 @@ body {
 .sidebar-config {
   height: 16px;
   display: inline-flex;
-  position: relative;
-  top: 5px;
-
 }
 
 .up-next-txt {
@@ -585,61 +525,13 @@ body {
   font-size: 13px;
   opacity: 0.54;
   bottom: 18px;
-<<<<<<< HEAD
 }
 
-<<<<<<< HEAD
 .a-play {
   position: relative;
   font-size: 13px;
   opacity: 0.54;
   left: 158px;
-=======
-.preference-blw{
-  text-decoration: none;
-  color: #b8d7ed ;
-}
-
-.learn-more {
-<<<<<<< HEAD
-=======
-  text-decoration: none;
-  font-size: 11px;
-  color: #b8d7ed ;
-  padding-left: 370px;
->>>>>>> master
-=======
-  width: 90%;
-}
-
-.nav-style {
-
-  background-color: red;
-<<<<<<< HEAD
->>>>>>> master
-=======
-
->>>>>>> master
-=======
->>>>>>> master
-}
-.div-video{
-  width: 639px;
-  height: 360px;
-  margin-top: 20px;
-
-}
-.video{
-  height: 100%;
-  width: 100%;
-}
-.info-video{
-  height: 210px;
-  width: 640px;
-  background-color: #FFFFFF;
-  margin-top: 10px;
-
->>>>>>> master
 }
 
 .toggle {
@@ -688,15 +580,11 @@ body {
 .txt-middle {
   font-size: 11px;
   color: #333333;
-  position: relative;
-  top: 5px;
 }
 
 .txt-bot {
   font-size: 11px;
   color: #333333;
-  position: relative;
-  top: 10px;
 }
 
 .text-div-side {
@@ -712,7 +600,8 @@ body {
   font-family: 'Noto Sans'!important, sans-serif;
   text-align: center;
   position: relative;
-  bottom: 15px;
+  right: 40px;
+  bottom: 3px;
   font-weight: 700;
   background-color: transparent;
   border: 0px;
@@ -720,10 +609,6 @@ body {
 
 .counter {
   position: relative;
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> master
   right: 28px;
   top: 77px;
   width: 42px;
@@ -731,45 +616,16 @@ body {
   background-color: rgba(0, 0, 0, 0.54);
   color: #EEEEEE;
   font-size: 11px;
-<<<<<<< HEAD
-=======
-  bottom: 83px;
-  width: 5px;
-  left: 286px;
-  border: 2px solid #e3e3e3;
-=======
-<<<<<<< HEAD
-=======
-  color: #b8d7ed ;
-  padding-left: 370px;
-=======
-  width: 90%;
-}
-
-.nav-style {
-
-  background-color: red;
->>>>>>> master
-
->>>>>>> master
-}
-.div-video{
-  width: 639px;
-  height: 360px;
-  margin-top: 20px;
-
->>>>>>> master
 }
 .footer{
     width: 1084px;
     height: 145px;
     position: relative;
-    bottom: 500px;
+    bottom: 475px;
     background-color: #FFFFFF;
     margin-top: 10px;
     box-shadow: 1px 1px 5px grey;
 }
-
 .in-footer {
   width: 95%;
   height: auto;
@@ -825,13 +681,12 @@ body {
   bottom: 80px;
   left: 905px;
 }
-<<<<<<< HEAD
 
 .img-footer {
   width: 30px;
   height: 30px;
   position: relative;
-  right: 15px;
+  right: 10px;
   bottom: 4px;
 }
 
@@ -860,7 +715,7 @@ body {
 
 .btn-foot {
   margin: 0px 15px 0px 15px;
-  width: 170px;
+  width: 165px;
   height: 28px;
   color: #7C7C7C;
 
@@ -937,38 +792,4 @@ body {
   font-family: 'Noto Sans'!important, sans-serif;
   color: rgba(0,0,0,.54);
   margin-right: 20px;
-=======
-option {
-  font-size: 22px;
-  width: 40px;
-=======
-  width: 90%;
-}
-
-.nav-style {
-
-  background-color: red;
-
-<<<<<<< HEAD
->>>>>>> origin
-=======
-.material-icons {
-  opacity:0.54;
->>>>>>> master
-=======
-  width: 90%;
-}
-
-.nav-style {
-
-  background-color: red;
-<<<<<<< HEAD
-
->>>>>>> master
-=======
->>>>>>> master
-
->>>>>>> master
->>>>>>> master
->>>>>>> master
 }
