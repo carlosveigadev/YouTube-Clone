@@ -1,6 +1,9 @@
 * {
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
   width: 100%;
 
   }
@@ -60,17 +63,31 @@ body {
     bottom: 3px;
   }
 
-  #ad1{
-    position: relative;
-    left: 270px;
 
+  #idn-lang{
+      position: relative;
+      left: 70px;
+      bottom: 30px;
+  }
+
+  #btn-foo1{
+    width: 80px;
+    height: 28px;
+    font-weight: 700;
+    padding-bottom: 10px;
+  }
+
+  #btn-foo2{
+    width: 75px;
+    height: 28px;
+    font-weight: 700;
+    padding-bottom: 10px;
   }
 
   .div-btns {
     align-items: center;
     background-color: white;
     display: flex;
-
   }
 
 
@@ -436,6 +453,20 @@ body {
 
   }
 
+.addto1 {
+    background-color: transparent;
+    border: none;
+    font-size: 9px;
+    text-decoration: none;
+    display: inline-block;
+    width: 70px;
+    height: 28px;
+    position: relative;
+    left: 270px;
+    right: 15px;
+    bottom: 10px;
+  }
+
   .w1 {
     position: relative;
     bottom: 9px;
@@ -465,8 +496,11 @@ body {
   .pub-p{
     position: relative;
     margin-left: 15px;
+    width: 600px;
     font-family: 'Noto Sans'!important, sans-serif;
     font-weight: 400;
+    border-bottom: 1px solid #7C7C7C;
+    padding-bottom: 15px;
 
   }
   .hr1{
@@ -482,7 +516,7 @@ body {
     font-family: 'Noto Sans'!important, sans-serif;
     text-align: center;
     position: relative;
-    bottom: 3px;
+    bottom: 10px;
     font-weight: 700;
   }
 
@@ -532,8 +566,8 @@ body {
   width: 415px;
   height: 2265px;
   position: relative;
-  bottom: 940px;
-  left: 650px;
+  bottom: 540px;
+  left: 670px;
   background-color: white;
   box-shadow: 1px 1px 5px grey;
 }
@@ -541,6 +575,9 @@ body {
 .sidebar-config {
   height: 16px;
   display: inline-flex;
+  position: relative;
+  top: 5px;
+
 }
 
 .up-next-txt {
@@ -651,11 +688,15 @@ body {
 .txt-middle {
   font-size: 11px;
   color: #333333;
+  position: relative;
+  top: 5px;
 }
 
 .txt-bot {
   font-size: 11px;
   color: #333333;
+  position: relative;
+  top: 10px;
 }
 
 .text-div-side {
@@ -671,8 +712,7 @@ body {
   font-family: 'Noto Sans'!important, sans-serif;
   text-align: center;
   position: relative;
-  right: 40px;
-  bottom: 3px;
+  bottom: 15px;
   font-weight: 700;
   background-color: transparent;
   border: 0px;
@@ -724,27 +764,32 @@ body {
     width: 1084px;
     height: 145px;
     position: relative;
-    bottom: 850px;
-    right: 15px;
+    bottom: 500px;
     background-color: #FFFFFF;
     margin-top: 10px;
     box-shadow: 1px 1px 5px grey;
 }
-.container-footer {
-  width: 100%;
+
+.in-footer {
+  width: 95%;
   height: auto;
+  padding-top: 15px;
+  border-bottom: 1px solid rgba(0,0,0,.24);
+  margin-left: 20px
 
 }
-.yt-footer{
-  width: 161px;
-  height: 18px;
+.youtube-logo{
+  width: auto;
+  height: 55px;
+  position: relative;
+  bottom: 10px;
 
 }
 .lang-footer{
   width: 13%;
-  height: 28px;
+  height: 18px;
   position: relative;
-  bottom: 10px;
+  bottom: 28px;
   left: 175px;
 
 }
@@ -780,6 +825,119 @@ body {
   bottom: 80px;
   left: 905px;
 }
+<<<<<<< HEAD
+
+.img-footer {
+  width: 30px;
+  height: 30px;
+  position: relative;
+  right: 15px;
+  bottom: 4px;
+}
+
+.icon-down {
+  width: 10px;
+  height: 10px;
+  opacity: .54;
+}
+
+.icon-down-1 {
+  width: 10px;
+  height: 10px;
+  align-items: center;
+  opacity: .54;
+}
+.in-footer {
+  display: flex;
+  flex-direction: row;
+}
+
+.lang-txt {
+  position: relative;
+  bottom: 15px;
+  right: 10px;
+}
+
+.btn-foot {
+  margin: 0px 15px 0px 15px;
+  width: 170px;
+  height: 28px;
+  color: #7C7C7C;
+
+}
+
+.hourglass {
+  width: 12px;
+  height: 15px;
+  position: relative;
+  top: 3px;
+  opacity: .54;
+}
+.hist-txt{
+  font-weight: 700;
+  position: relative;
+  bottom: 12px;
+}
+
+.btn-foot-h {
+  margin: 0px 15px;
+  width: 105px;
+  height: 28px;
+}
+
+.h-img {
+  width: 30px;
+  height: 40px;
+  position: relative;
+  top: 18px;
+
+
+}
+
+.hlp-txt {
+  position: relative;
+  bottom: 25px;
+  right: 5px;
+  font-weight: 700;
+}
+
+.anc-lst {
+  list-style: none;
+  display: inline-flex;
+  position: relative;
+  width: 100px;
+  height: 36px;
+
+}
+.a-elmnt{
+  position: relative;
+  text-decoration: none;
+  padding-right: 20px;
+  font-weight: 700;
+  font-family: 'Noto Sans'!important, sans-serif;
+  color: rgba(0,0,0,.80)
+
+}
+.anc-lst1 {
+  width: 500px;
+  height: 36px;
+  list-style: none;
+  display: flex;
+  position: relative;
+  bottom: 30px;
+}
+.a-elmnt1{
+  width: 100%;
+  position: relative;
+  bottom: 30px;
+  left: 40px;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 11px;
+  font-family: 'Noto Sans'!important, sans-serif;
+  color: rgba(0,0,0,.54);
+  margin-right: 20px;
+=======
 option {
   font-size: 22px;
   width: 40px;
@@ -796,6 +954,7 @@ option {
 =======
 .material-icons {
   opacity:0.54;
+>>>>>>> master
 =======
   width: 90%;
 }
@@ -803,8 +962,13 @@ option {
 .nav-style {
 
   background-color: red;
+<<<<<<< HEAD
+
+>>>>>>> master
+=======
 >>>>>>> master
 
+>>>>>>> master
 >>>>>>> master
 >>>>>>> master
 }
