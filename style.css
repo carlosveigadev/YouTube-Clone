@@ -1,4 +1,5 @@
 * {
+<<<<<<< HEAD
   width: 100%;
   }
   body {
@@ -477,4 +478,13 @@
   position: relative;
   left: 280px;
   top: 55px;
+=======
+  width: 90%;
+}
+
+.nav-style {
+
+  background-color: red;
+
+>>>>>>> master
 }
