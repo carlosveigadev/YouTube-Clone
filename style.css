@@ -1,5 +1,9 @@
 * {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
   width: 100%;
 
   }
@@ -15,8 +19,42 @@
     font-size: 100%;
     padding: 7px 30px 8px;
     display: flex;
+<<<<<<< HEAD
+=======
 
   }
+>>>>>>> master
+=======
+width: 100%;
+}
+body {
+  background-color: #EEEEEE;
+}
+<<<<<<< HEAD
+
+
+
+#div-style {
+  height: 50px;
+  width: 1024px;
+  background-color: white;
+  position: relative;
+  font-size: 100%;
+  padding: 7px 30px 8px;
+  display: flex;
+
+}
+
+.div-btns {
+  align-items: center;
+  background-color: white;
+  display: flex;
+>>>>>>> master
+
+  }
+=======
+>>>>>>> master
+>>>>>>> master
 
   #info{
     position: relative;
@@ -513,6 +551,15 @@
   position: relative;
   left: 280px;
   top: 55px;
+=======
+  width: 90%;
+}
+
+.nav-style {
+
+  background-color: red;
+
+>>>>>>> master
 }
 
 .sidebar {
@@ -538,13 +585,61 @@
   font-size: 13px;
   opacity: 0.54;
   bottom: 18px;
+<<<<<<< HEAD
 }
 
+<<<<<<< HEAD
 .a-play {
   position: relative;
   font-size: 13px;
   opacity: 0.54;
   left: 158px;
+=======
+.preference-blw{
+  text-decoration: none;
+  color: #b8d7ed ;
+}
+
+.learn-more {
+<<<<<<< HEAD
+=======
+  text-decoration: none;
+  font-size: 11px;
+  color: #b8d7ed ;
+  padding-left: 370px;
+>>>>>>> master
+=======
+  width: 90%;
+}
+
+.nav-style {
+
+  background-color: red;
+<<<<<<< HEAD
+>>>>>>> master
+=======
+
+>>>>>>> master
+=======
+>>>>>>> master
+}
+.div-video{
+  width: 639px;
+  height: 360px;
+  margin-top: 20px;
+
+}
+.video{
+  height: 100%;
+  width: 100%;
+}
+.info-video{
+  height: 210px;
+  width: 640px;
+  background-color: #FFFFFF;
+  margin-top: 10px;
+
+>>>>>>> master
 }
 
 .toggle {
@@ -625,6 +720,10 @@
 
 .counter {
   position: relative;
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> master
   right: 28px;
   top: 77px;
   width: 42px;
@@ -632,6 +731,34 @@
   background-color: rgba(0, 0, 0, 0.54);
   color: #EEEEEE;
   font-size: 11px;
+<<<<<<< HEAD
+=======
+  bottom: 83px;
+  width: 5px;
+  left: 286px;
+  border: 2px solid #e3e3e3;
+=======
+<<<<<<< HEAD
+=======
+  color: #b8d7ed ;
+  padding-left: 370px;
+=======
+  width: 90%;
+}
+
+.nav-style {
+
+  background-color: red;
+>>>>>>> master
+
+>>>>>>> master
+}
+.div-video{
+  width: 639px;
+  height: 360px;
+  margin-top: 20px;
+
+>>>>>>> master
 }
 .footer{
     width: 1084px;
@@ -698,6 +825,7 @@
   bottom: 80px;
   left: 905px;
 }
+<<<<<<< HEAD
 
 .img-footer {
   width: 30px;
@@ -810,6 +938,10 @@
   color: rgba(0,0,0,.54);
   margin-right: 20px;
 =======
+option {
+  font-size: 22px;
+  width: 40px;
+=======
   width: 90%;
 }
 
@@ -817,5 +949,26 @@
 
   background-color: red;
 
+<<<<<<< HEAD
+>>>>>>> origin
+=======
+.material-icons {
+  opacity:0.54;
+>>>>>>> master
+=======
+  width: 90%;
+}
+
+.nav-style {
+
+  background-color: red;
+<<<<<<< HEAD
+
+>>>>>>> master
+=======
+>>>>>>> master
+
+>>>>>>> master
+>>>>>>> master
 >>>>>>> master
 }
