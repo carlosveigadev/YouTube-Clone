@@ -27,8 +27,8 @@ https://wrakc.github.io/YouTube-Clone/
 👤 **Carlos Flores Robles**
 
 - Github: [@githubhandle](https://github.com/carlos-ssh)
-- Twitter: [@twitterhandle](https://twitter.com/)
-- Linkedin: [linkedin](https://linkedin.com/)
+- Twitter: [@twitterhandle](https://twitter.com/AomRobles)
+- Linkedin: [linkedin](https://linkedin.com/carlosfloresrobles)
 
 ## 🤝 Contributing
 
