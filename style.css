@@ -1,13 +1,14 @@
 * {
   width: 100%;
   font-family: 'Noto Sans', sans-serif;
-
   }
+
   body {
     background-color: #EEEEEE;
+    padding-left: 10%;
   }
 
-  #div-style {
+  #nav-style {
     height: 50px;
     width: 1024px;
     background-color: white;
