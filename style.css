@@ -1,12 +1,14 @@
 * {
   width: 100%;
-
+  font-family: 'Noto Sans', sans-serif;
   }
+
   body {
     background-color: #EEEEEE;
+    padding-left: 10%;
   }
 
-  #div-style {
+  #nav-style {
     height: 50px;
     width: 1024px;
     background-color: white;
@@ -33,7 +35,8 @@
   #idn-lang{
       position: relative;
       left: 70px;
-      bottom: 30px;
+      bottom: 32px;
+
 
   }
 
@@ -156,7 +159,6 @@
     border-color: #EEEEEE;
     text-decoration-color: #EEEEEE;
     font-size: 12px;
-    font-family: 'Noto Sans', sans-serif;
     margin-top: 1px;
 
   }
@@ -165,7 +167,6 @@
     width: 117px;
     height: 28px;
     display: flex;
-    align-items: right;
     justify-content: center;
   }
 
@@ -253,13 +254,13 @@
 
   .preference-blw{
     text-decoration: none;
-    color: #b8d7ed ;
+    color: blue;
   }
 
   .learn-more {
     text-decoration: none;
     font-size: 11px;
-    color: #b8d7ed ;
+    color: blue;
     padding-left: 370px;
   }
   .div-video{
@@ -324,7 +325,7 @@
   .yt-icon {
     width: 16px;
     height: 12px;
-    margin-top: 6;
+
   }
 
   .yt-btn {
@@ -422,16 +423,32 @@
 
   }
 
+
+  .addto1 {
+    background-color: transparent;
+    border: none;
+    bottom: 10px;
+    display: inline-block;
+    font-size: 9px;
+    position: relative;
+    left: 271px;
+    text-decoration: none;
+    height: 28px;
+    width: 70px;
+
+  }
+
+
   .w1 {
     position: relative;
     bottom: 9px;
     left: 12px;
     text-align: right;
     font-size: 11px;
-    font-family: 'Noto Sans'!important, sans-serif;
     opacity: .54;
 
   }
+
   .pub {
     position: relative;
     bottom: 80px;
@@ -446,13 +463,16 @@
     position: relative;
     top: 15px;
     left: 15px;
-    font-family: 'Noto Sans'!important, sans-serif;
+
   }
   .pub-p{
     position: relative;
     margin-left: 15px;
-    font-family: 'Noto Sans'!important, sans-serif;
     font-weight: 400;
+    border-bottom: .25px solid #C7C7C7;
+    padding-bottom: 10px;
+    width: 600px;
+
 
   }
   .hr1{
@@ -465,11 +485,12 @@
    .show-more {
     text-decoration: none;
     opacity: .54;
-    font-family: 'Noto Sans'!important, sans-serif;
     text-align: center;
     position: relative;
     bottom: 3px;
     font-weight: 700;
+
+
   }
 
   .show-btn {
@@ -597,7 +618,6 @@
 .show-more-sidebar {
   text-decoration: none;
   opacity: .54;
-  font-family: 'Noto Sans'!important, sans-serif;
   text-align: center;
   position: relative;
   right: 40px;
@@ -634,13 +654,12 @@
   margin-left: 20px
 
 }
-.youtube-logo{
+.youtube-logo2 {
   width: auto;
   height: 55px;
-  position: relative;
-  bottom: 10px;
 
 }
+
 .lang-footer{
   width: 13%;
   height: 18px;
@@ -702,6 +721,7 @@
   align-items: center;
   opacity: .54;
 }
+
 .in-footer {
   display: flex;
   flex-direction: row;
@@ -718,6 +738,8 @@
   width: 165px;
   height: 28px;
   color: #7C7C7C;
+  position: relative;
+  top: 10px;
 
 }
 
@@ -769,7 +791,6 @@
   text-decoration: none;
   padding-right: 20px;
   font-weight: 700;
-  font-family: 'Noto Sans'!important, sans-serif;
   color: rgba(0,0,0,.80)
 
 }
@@ -789,7 +810,6 @@
   text-decoration: none;
   font-weight: 700;
   font-size: 11px;
-  font-family: 'Noto Sans'!important, sans-serif;
   color: rgba(0,0,0,.54);
   margin-right: 20px;
 }
