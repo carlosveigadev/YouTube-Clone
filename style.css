@@ -37,6 +37,7 @@
       left: 70px;
       bottom: 32px;
 
+
   }
 
   #btn-foo1{
@@ -422,6 +423,7 @@
 
   }
 
+
   .addto1 {
     background-color: transparent;
     border: none;
@@ -435,6 +437,7 @@
     width: 70px;
 
   }
+
 
   .w1 {
     position: relative;
@@ -470,6 +473,7 @@
     padding-bottom: 10px;
     width: 600px;
 
+
   }
   .hr1{
     position: relative;
@@ -483,7 +487,7 @@
     opacity: .54;
     text-align: center;
     position: relative;
-    bottom: 10px;
+    bottom: 3px;
     font-weight: 700;
 
 
@@ -642,7 +646,6 @@
     margin-top: 10px;
     box-shadow: 1px 1px 5px grey;
 }
-
 .in-footer {
   width: 95%;
   height: auto;
@@ -732,7 +735,7 @@
 
 .btn-foot {
   margin: 0px 15px 0px 15px;
-  width: 170px;
+  width: 165px;
   height: 28px;
   color: #7C7C7C;
   position: relative;
